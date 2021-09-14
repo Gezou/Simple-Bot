@@ -1,5 +1,5 @@
 # Sample Discord.JS Bot
-A Discord bot made by the VizuDev team for making the coding experience easier for beginners.
+A Discord bot made by the Gezou for making the coding experience easier for beginners.
 
 # Features
 - Command handler w/ aliases
